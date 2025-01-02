@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9bca43fd31043b7851e759ce666b0b7, type: 3}
+  m_Name: ChipSpriteContainer
+  m_EditorClassIdentifier: 
+  chipSprites:
+  - {fileID: 21300000, guid: 8cfdb745521334458990d9dba9f4b05c, type: 3}
+  - {fileID: 21300000, guid: e36d82f7fe7734cc7b82576595906507, type: 3}
+  - {fileID: 21300000, guid: d8f5e714cfb6549919bc63725df8b40c, type: 3}
+  - {fileID: 21300000, guid: 7518dabdeccd849ca89ff0b71e44c761, type: 3}
